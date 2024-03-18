@@ -7,4 +7,4 @@ function checkEvenOrOdd(number) {
       return "Odd";
   }
 }
-console.log(checkEvenOrOdd(5)); 
+console.log(checkEvenOrOdd(3454676)); 
