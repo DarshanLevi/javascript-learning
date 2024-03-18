@@ -1,8 +1,8 @@
 // Implement a program that determines the BMI (Body Mass Index) category based on user input height and weight
 
 let feet = 5.7 
-let meter = 0.3048
-let result = feet*meter
+let oneMeter = 0.3048
+let result = feet*oneMeter
 
 function findBodyMass(x){
     if (typeof x === 'number' ) {
